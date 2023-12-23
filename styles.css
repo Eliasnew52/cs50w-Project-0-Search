@@ -1,0 +1,17 @@
+body{
+    background-color: #202124;
+
+    nav{
+        background-color: #202124
+    }
+
+    .form-control{
+        background-color: #202124;
+        color: white;
+        border-radius: 20px;
+    }
+    .form-control:focus {
+        background-color:#313236;
+        color: white;
+      }
+}
