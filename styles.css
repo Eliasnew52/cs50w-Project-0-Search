@@ -14,4 +14,21 @@ body{
         background-color:#313236;
         color: white;
       }
+
+    
 }
+
+footer{
+
+    .footer-text{
+        color: white;
+        padding: 10px;
+    }
+    
+    li {
+        color: white;
+        list-style: none;
+        padding: 10px;
+    }
+}
+
