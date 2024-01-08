@@ -1,6 +1,7 @@
 body{
     background-color: #202124;
-
+    font-size: 15.5px;
+    font-family: arial,sans-serif;
     nav{
         background-color: #202124
     }
@@ -10,19 +11,39 @@ body{
         color: white;
         border-radius: 20px;
     }
+
     .form-control:focus {
         background-color:#313236;
         color: white;
-      }
+    }
+
+    .google-btns input {
+    background-color: #303134;
+    font-size: 14px;
+    padding: .4rem 1rem;
+    margin: 1rem;
+}
+
 
     
 }
 
 footer{
+    margin-top: auto;
 
+    .quick-links {
+        padding: 0 22.5px;
+    }
+    
+    .quick-links a {
+        white-space: nowrap;
+        padding: 12.5px;
+    }
     .footer-text{
         color: white;
-        padding: 10px;
+       
+        white-space: nowrap;
+        padding: 12.5px;
     }
     
     li {
@@ -30,5 +51,12 @@ footer{
         list-style: none;
         padding: 10px;
     }
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    
 }
+
+
 
