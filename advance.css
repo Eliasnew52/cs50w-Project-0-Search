@@ -1,0 +1,41 @@
+body{
+    background-color: #ffffff;
+    font-size: 15.5px;
+    font-family: arial,sans-serif;
+
+    nav{
+        background-color: #ffffff
+        
+    }
+
+    .adv-search{
+        color: red;
+        margin-left: 55px;
+        font-size: 25px;
+    }
+    p{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+    input{
+        font-size: 12px;
+    }
+    .adv-button{
+        background-color: rgb(72, 72, 235);
+        color: white;
+        border-color:rgb(72, 72, 235);
+        font-family: arial,sans-serif;
+        font-size: 17px;
+        
+    }
+    .info-txt{
+        font-size: 18px;
+        font-family: arial,sans-serif; 
+        color: rgb(96, 96, 96);
+        font-weight: bold;
+        
+    }
+}
+
+   
